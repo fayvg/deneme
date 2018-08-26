@@ -1,1 +1,1 @@
-# deneme guncellendi
+# deneme tekrar guncellendi.
