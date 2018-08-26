@@ -1,1 +1,2 @@
-# deneme tekrar guncellendi..
+# deneme tekrar guncellendi.
+# updated
